@@ -1,4 +1,4 @@
-# Challenge_Data_ScienceMore actions
+# Challenge_Data_Science
 Challenge Alura para Data Science
 En este informe se analizan los datos de las cuatro tiendas:
 -En la primera sección se calcula la totalidad del monto facturado de cada tienda.
